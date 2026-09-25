@@ -1,0 +1,9 @@
+{
+  "appId": "com.jtgames.lojadejogos",
+  "appName": "Loja de Jogos",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
